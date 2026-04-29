@@ -1,4 +1,4 @@
-# Riku-Ryu Corpus
+##031 Riku-Ryu Corpus
 **Corpus-Based Vocabulary — QuestQueries #031**
 
 > 「規則を教えてから例文」ではなく「例文の海から規則が浮かび上がる」
